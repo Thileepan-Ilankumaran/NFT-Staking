@@ -1,1 +1,8 @@
 # NFT-Staking
+
+ Reward Token deployed at 0x725c0Ca68E2d9b0D08FCe4e5d1639144d1eC8D37
+
+ NFT deployed at 0x0B66cfeAb696d67e588356aDdA482aA2328120A5
+
+ STAKING deployed at 
+ 0x94726d8fdd8C62c83f64FE8d1bC4bCf115ee50d3
